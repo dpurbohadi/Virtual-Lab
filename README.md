@@ -1,7 +1,5 @@
 # Lab X
 
-Improved version:
-
 **Lab X** is a **Virtual Lab Project** that focuses on developing innovative, interactive learning environments. The project includes an **AI-supported language learning module** designed to improve learners’ pronunciation, listening, and writing skills in English. This module uses **speech recognition technology** to provide real-time, interactive feedback, helping learners—especially children—enhance their speaking accuracy, listening comprehension, and writing performance through engaging digital activities.
 .
 
